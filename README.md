@@ -4,7 +4,7 @@ From the [Skill Factory Data Science course](https://skillfactory.ru/data-scient
 
 ## Проекты
 
-* [Project 1 Анализ датасета Head Hunter](Module_1/Projects/PJ1_Headhunter.ipynb)
+* [Project 1 Анализ датасета Head Hunter](Module_1/Projects)
 
 ## Анализ
  
